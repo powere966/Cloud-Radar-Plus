@@ -66,12 +66,12 @@ Fixed an issue where the enemy could not be displayed.
 
 打开浏览器输入网址即可享用雷达!
 
-![image](https://github.com/XiaohuaCN/Cloud-Radar-Plus/blob/master/static/assets/1.png)
+![image](https://github.com/powere966/Cloud-Radar-Plus/blob/master/static/assets/1.png)
 
 # ======================================
 # 如果你觉得本教程以及工具很有用  可以捐助(不强求) 一下吃不起饭饭的我
 
-![image](https://github.com/XiaohuaCN/Cloud-Radar-Plus/blob/master/static/assets/1.jpg)
+![image](https://github.com/powere966/Cloud-Radar-Plus/blob/master/static/assets/1.jpg)
 
 # ======================================
 Tutorial By:powere966
